@@ -1,6 +1,6 @@
 # Webprogramozási projekt 2026
 
-Projekt témája: **egy Minecraft szerver weboldalának elkészítése**
+Projekt témája: **egy Saját logo feltölthető merch webshop elkészítése**
 
 Csapat neve: **OLM Group**
 
