@@ -1,6 +1,6 @@
 # Webprogramozási projekt 2026
 
-Projekt témája: **egy Saját logo feltölthető merch webshop elkészítése**
+Projekt témája: **egy olyan webshop elkészítése, ahol Petőfi Sándor Technikum tematikájú és saját feltöltésű egyedi merchöket árul.**
 
 Csapat neve: **OLM Group**
 
